@@ -1,9 +1,9 @@
 # Day 4: Type Casting with Styled Output
 
 # Getting inputs from user
-name = input("Enter your name: ")
-age = int(input("Enter your age: "))
-height = float(input("Enter your height: "))
+name = input("Enter your name: ")             # Default String
+age = int(input("Enter your age: "))          # Converts String into int
+height = float(input("Enter your height: "))  # Converts String into float
 
 # Calculations
 age_in_months = age * 12
