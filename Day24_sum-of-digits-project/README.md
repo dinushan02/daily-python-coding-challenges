@@ -86,8 +86,9 @@ Sum of all digits: 10
 
 ### 🖥️ CLI Version
 > *(Add your terminal screenshot here)*
-Enter a number: 456
-Sum of all digits: 15
+
+* Enter a number: 456
+* Sum of all digits: 15
 
 
 ---
