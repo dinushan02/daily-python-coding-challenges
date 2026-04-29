@@ -105,12 +105,16 @@ Sum of all digits: 15
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/Day24_sum-of-digits-project.git
+git clone https://github.com/dinushan02/daily-python-coding-challenges/Day24_sum-of-digits-project.git
+```
 
 2️⃣ Run CLI App
+```bash
 python cli_app.py
+```
 
 3️⃣ Run GUI App
+```bash
 python gui_app.py
 ```
 
