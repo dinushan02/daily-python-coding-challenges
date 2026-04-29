@@ -115,23 +115,23 @@ python gui_app.py
 ```
 
 💡 Key Learnings
-Building CLI applications in Python
-Creating GUI apps using Tkinter
-Reusing logic across different interfaces
-Improving code structure and readability
+* Building CLI applications in Python
+* Creating GUI apps using Tkinter
+* Reusing logic across different interfaces
+* Improving code structure and readability
 
 📌 Future Improvements
-Add dark mode UI 🌙
-Add reset/clear button 🔄
-Convert to executable (.exe) 📦
-Add more math utilities (factorial, reverse number, etc.)
+* Add dark mode UI 🌙
+* Add reset/clear button 🔄
+* Convert to executable (.exe) 📦
+* Add more math utilities (factorial, reverse number, etc.)
 
 👨‍💻 Author
-Python Learning Journey – Day 24 Challenge
-Built as part of my consistent Python practice to become an AI Engineer 🚀
+- Python Learning Journey – Day 24 Challenge
+- Built as part of my consistent Python practice to become an AI Engineer 🚀
 
 ⭐ Support
 If you like this project:
-⭐ Star the repository
-🍴 Fork it
-🔄 Share it with others
+* ⭐ Star the repository
+* 🍴 Fork it
+* 🔄 Share it with others
