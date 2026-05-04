@@ -35,3 +35,5 @@ for num in range(1, 51):
         count += 1
 
 print(f"\nTotal even numbers: {count}")
+
+

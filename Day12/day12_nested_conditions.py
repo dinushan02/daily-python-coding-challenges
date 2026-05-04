@@ -1,16 +1,16 @@
 # Day 12: Nested Conditions
 
-age = int(input("Enter your age: "))
-
-if age >= 18:
-    has_id = input("Do you have your voter ID? (yes/no): ").lower()
-
-    if has_id == "yes":
-        print("You are eligible to vote! 🗳️")
-    else:
-        print("You must bring your voter ID to vote.")
-else:
-    print("Sorry, you are not old enough to vote yet.")
+# age = int(input("Enter your age: "))
+#
+# if age >= 18:
+#     has_id = input("Do you have your voter ID? (yes/no): ").lower()
+#
+#     if has_id == "yes":
+#         print("You are eligible to vote! 🗳️")
+#     else:
+#         print("You must bring your voter ID to vote.")
+# else:
+#     print("Sorry, you are not old enough to vote yet.")
 
 
 print("\n⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐")

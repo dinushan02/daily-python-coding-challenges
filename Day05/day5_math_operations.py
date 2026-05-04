@@ -22,3 +22,6 @@ print(f"✖️ Multiplication: {multiplication}")
 print(f"➗ Division: {division:.2f}")  # Here, 2f is used for 2 decimal points
 
 print("\n✨ Thanks for calculating! ✨")
+
+
+
