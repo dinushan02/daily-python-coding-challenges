@@ -42,17 +42,4 @@ result = find_second_largest(numbers)
 if result is None:
     print("No second largest number exists.")
 else:
-    print(f"Second largest: {result}")
-
-
-
-
-
-    
-
-
-
-
-
-
-    
+    print(f"Second largest: {result}")   
