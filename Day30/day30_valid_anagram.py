@@ -23,3 +23,5 @@ str1 = input("Enter a first text: ")
 str2 = input("Enter a second text: ")
 result = is_anagram(str1, str2)
 print(result)
+
+
