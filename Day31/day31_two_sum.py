@@ -10,8 +10,8 @@ def two_sum(nums, target):
         seen[num] = index
         
 
-nums = [2, 7, 11, 15]
-target = 9
+nums = [-1, -2, -3, -4, -5]
+target = -8
 
 result = two_sum(nums, target)
 print(result)
