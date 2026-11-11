@@ -38,6 +38,12 @@ htmlcov/
 .nox/
 
 # ==============================
+# Type Checker & Linter Caches
+# ==============================
+.mypy_cache/
+.ruff_cache/
+
+# ==============================
 # Jupyter Notebook
 # ==============================
 .ipynb_checkpoints/
@@ -62,7 +68,7 @@ desktop.ini
 *.log
 
 # ==============================
-# Temporary Files
+# Temporary & Editor Swap Files
 # ==============================
 *.tmp
 *.bak
