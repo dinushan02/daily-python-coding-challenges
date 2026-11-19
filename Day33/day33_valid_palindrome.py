@@ -22,6 +22,6 @@ def is_palindrome(s):
     return True
 
 
-s = "A man, a plan, a canal: Panama"
+s = "No lemon, no melon"
 result = is_palindrome(s)
 print(result)
